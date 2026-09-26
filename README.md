@@ -8,7 +8,7 @@
 ## Informar de un problema
 
 - Si la aplicación no reconoce su compra, póngase en contacto conmigo desde la página de atención al cliente y adjunte una captura de pantalla del recibo de compra.
-- Para obtener más información, consulte la [lista de aplicaciones](https://github.com/lucasditomase/purchases-restored) que admiten la restauración de compras.
+- Para obtener más información, consulte la [lista de aplicaciones](https://github.com/lucasditomase/compras-restauradas) que admiten la restauración de compras.
 
 ## Cómo obtener el recibo de compra
 
