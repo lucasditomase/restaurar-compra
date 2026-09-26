@@ -17,4 +17,4 @@
 - Puedes filtrar las aplicaciones por fecha usando el menú de la parte superior.
 - Los recibos de compra no desaparecen. Incluso si hiciste una compra hace años, todavía estará allí.
 
-### [Abrir el App Store](https://apps.apple.com/today)
+### [Abrir la App Store](https://apps.apple.com/today)
