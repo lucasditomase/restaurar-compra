@@ -1,13 +1,13 @@
 # Restaurar compra
 
-- Si compraste la aplicación cuando era una descarga de pago, puedes mantener las funciones originales de forma gratuita. No se requiere suscripción.
+- Si compraste la aplicación cuando era una **descarga de pago**, puedes mantener las funciones originales de forma gratuita. No se requiere suscripción.
 - Las compras se restauran automáticamente. Si esto no funciona para ti, infórmame para que pueda arreglarlo.
-- El botón para restaurar las compras en el menú de suscripción solo funciona para suscripciones. No tendrá ningún efecto en las descargas pagadas.
-- El botón para restaurar las compras en el menú de compra única solo funciona para las compras dentro de la aplicación; no funciona para las descargas de pago.
+- El botón para restaurar las compras en el *menú de suscripción* solo funciona para suscripciones. **No tendrá ningún efecto en las descargas pagadas**.
+- El botón para restaurar las compras en el *menú de compra única* solo funciona para las compras dentro de la aplicación; **no funciona para las descargas de pago**.
 
 ## Informar de un problema
 
-- Si la aplicación no reconoce su compra, póngase en contacto conmigo desde la página de atención al cliente y adjunte una captura de pantalla del recibo de compra.
+- Si la aplicación no reconoce su compra, póngase en contacto conmigo desde la página de atención al cliente y adjunte una **captura de pantalla del recibo de compra**.
 - Para obtener más información, consulte la [lista de aplicaciones](https://github.com/lucasditomase/compras-restauradas) que admiten la restauración de compras.
 
 ## Cómo obtener el recibo de compra
